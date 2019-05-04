@@ -24,10 +24,10 @@ HTML структура табов:
 		</div>
 	</div>
 
-Вызывается функцией:
+Вызывается функцией:<br>
 tabs('.info-tabcontent', '.info-header', '.info-header-tab');
 где:
 
-.info-tabcontent - блок с контентом каждого таба
-.info-header - блок с кнопками таба
+.info-tabcontent - блок с контентом каждого таба<br>
+.info-header - блок с кнопками таба<br>
 .info-header-tab - кнопки таба
