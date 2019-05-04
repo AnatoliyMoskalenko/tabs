@@ -25,9 +25,9 @@ HTML структура табов:
 	</div>
 
 Вызывается функцией:<br>
-tabs('.info-tabcontent', '.info-header', '.info-header-tab');
-где:
+tabs('.info-tabcontent', '.info-header', '.info-header-tab');<br>
 
+где:<br>
 .info-tabcontent - блок с контентом каждого таба<br>
 .info-header - блок с кнопками таба<br>
 .info-header-tab - кнопки таба
